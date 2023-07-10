@@ -1,8 +1,14 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-
+Portal pelayanan pendaftaran kepengurusan administrasi di kelurahan batu 9 (kerja praktek) 
 ## Usage
+
+### Clone this repository
+```bash
+git clone https://github.com/bayuarp26/pelayanan-administrasi-kel-batu9-ts.git
+```
+
+## usage shadcn/next-template
 
 ```bash
 npx create-next-app -e https://github.com/shadcn/next-template
@@ -20,3 +26,10 @@ npx create-next-app -e https://github.com/shadcn/next-template
 ## License
 
 Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+
+
+## Author
+Name : Wahyu Pratomo
+Nim : 1220006
+
+Sekolah Tinggi Teknologi Indonesia Tanjungpinang
