@@ -38,7 +38,7 @@ export default function IndexPage() {
           href={siteConfig.links.profile}
           className={buttonVariants({ variant: "outline" })}
         >
-          Profile
+          Daftar
         </Link>
       </div>
     </section>

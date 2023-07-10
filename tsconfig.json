@@ -24,6 +24,6 @@
     ],
     "strictNullChecks": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "controller/employee.jsx", "config/db.jsx", "config/db.js", "components/drop-file-input/DropFileInput.jsx", "components/drop-file-input/DropFileInput.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "controller/employee.jsx", "config/db.jsx", "config/db.js", "components/drop-file-input/DropFileInput.jsx", "components/drop-file-input/DropFileInput.jsx", "components/pond/pond.jsx", "app/dashboard/components/columns.jsx"],
   "exclude": ["node_modules"]
 }

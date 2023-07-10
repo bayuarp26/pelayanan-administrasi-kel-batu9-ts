@@ -19,6 +19,6 @@ export const siteConfig = {
     github: "https://github.com/bayuarp26",
     docs: "https://ui.shadcn.com",
     main: "https://batuix.tanjungpinangkota.go.id/",
-    profile: "https://batuix.tanjungpinangkota.go.id/?page_id=538",
+    profile: "services",
   },
 }
