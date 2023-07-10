@@ -29,7 +29,7 @@ Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.
 
 
 ## Author
-Name : Wahyu Pratomo
-Nim : 1220006
+- Name : Wahyu Pratomo
+- Nim : 1220006
 
 Sekolah Tinggi Teknologi Indonesia Tanjungpinang
